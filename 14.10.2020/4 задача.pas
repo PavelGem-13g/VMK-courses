@@ -7,5 +7,5 @@ begin
   write('Введите нужную квартиру ');
   read(myFlat);
   writeln('Подъезд - ', (myFlat div (floors*flats))+1);
-  writeln('Этаж - ', (myFlat div floors)+1);
+  writeln('Этаж - ', (((floors*flats)-myFlat )div floors));
 end.
