@@ -1,0 +1,7 @@
+C:\Users\pashe\Documents\GitHub\VMK-courses\25.11.2020\dop number one\dop number one\bin\Debug\dop number one.exe.config
+C:\Users\pashe\Documents\GitHub\VMK-courses\25.11.2020\dop number one\dop number one\bin\Debug\dop number one.exe
+C:\Users\pashe\Documents\GitHub\VMK-courses\25.11.2020\dop number one\dop number one\bin\Debug\dop number one.pdb
+C:\Users\pashe\Documents\GitHub\VMK-courses\25.11.2020\dop number one\dop number one\obj\Debug\dop number one.csprojAssemblyReference.cache
+C:\Users\pashe\Documents\GitHub\VMK-courses\25.11.2020\dop number one\dop number one\obj\Debug\dop number one.csproj.CoreCompileInputs.cache
+C:\Users\pashe\Documents\GitHub\VMK-courses\25.11.2020\dop number one\dop number one\obj\Debug\dop number one.exe
+C:\Users\pashe\Documents\GitHub\VMK-courses\25.11.2020\dop number one\dop number one\obj\Debug\dop number one.pdb
