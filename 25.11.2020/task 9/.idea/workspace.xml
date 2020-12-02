@@ -54,11 +54,6 @@
     <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="task_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task_9" TARGET_NAME="task_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task_9" RUN_TARGET_NAME="task_9">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -79,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606325618933</updated>
       <workItem from="1606325620536" duration="1756000" />
+      <workItem from="1606679335886" duration="87000" />
     </task>
     <servers />
   </component>
@@ -95,8 +91,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1220" y="262" key="FileChooserDialogImpl" timestamp="1606679411048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1606679411048" />
     <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1606327762949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
