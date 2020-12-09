@@ -1,0 +1,3 @@
+C:\Users\pashe\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\12_09_2020.dir/objects.a
+C:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\12_09_2020.dir/objects.a @CMakeFiles\12_09_2020.dir\objects1.rsp
+C:\MinGW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\12_09_2020.dir/objects.a -Wl,--no-whole-archive  -o 12_09_2020.exe -Wl,--out-implib,lib12_09_2020.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\12_09_2020.dir\linklibs.rsp
