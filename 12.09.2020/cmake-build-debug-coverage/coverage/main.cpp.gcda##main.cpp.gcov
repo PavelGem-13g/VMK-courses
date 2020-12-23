@@ -1,0 +1,41 @@
+        -:    0:Source:C:/Users/pashe/Documents/GitHub/VMK-courses/12.09.2020/main.cpp
+        -:    0:Graph:C:\Users\pashe\Documents\GitHub\VMK-courses\12.09.2020\cmake-build-debug-coverage\CMakeFiles\12_09_2020.dir\main.cpp.gcno
+        -:    0:Data:C:\Users\pashe\Documents\GitHub\VMK-courses\12.09.2020\cmake-build-debug-coverage\CMakeFiles\12_09_2020.dir\main.cpp.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <iostream>
+        -:    2:
+        -:    3:using namespace std;
+        -:    4:
+        1:    5:int main() {
+        -:    6:    int x,a,b;
+        -:    7:
+     2001:    8:    for (int i = 0; i < 2000; ++i) {
+        1:    8-block  0
+     2001:    8-block  1
+     2000:    8-block  2
+     2000:    9:        x = i;a = 0; b = 1;
+     2000:    9-block  0
+    11219:   10:        while (x>0)
+    11219:   10-block  0
+        -:   11:        {
+     9219:   12:            if (x%2>0)
+     9219:   12-block  0
+        -:   13:            {
+     4750:   14:                a+=1;
+     4750:   14-block  0
+        -:   15:            } else
+        -:   16:                {
+     4469:   17:                b+=x%5;
+     4469:   17-block  0
+        -:   18:                }
+     9219:   19:            x/=5;
+     9219:   19-block  0
+        -:   20:        }
+     2000:   21:        if(a==2 and b==9)cout<<i<<"   ";
+     2000:   21-block  0
+      536:   21-block  1
+       34:   21-block  2
+        -:   22:    }
+        1:   23:}
+        1:   23-block  0

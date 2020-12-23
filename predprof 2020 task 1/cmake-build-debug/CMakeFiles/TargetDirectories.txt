@@ -1,0 +1,3 @@
+C:/Users/pashe/Documents/GitHub/VMK-courses/predprof 2020 task 1/cmake-build-debug/CMakeFiles/predprof_2020_task_1.dir
+C:/Users/pashe/Documents/GitHub/VMK-courses/predprof 2020 task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pashe/Documents/GitHub/VMK-courses/predprof 2020 task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

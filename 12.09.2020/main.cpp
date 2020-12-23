@@ -1,23 +1,20 @@
 #include <iostream>
+#include <conio.h>
 
+#include <stdio.h>
+#include <iostream>
 using namespace std;
-
-int main() {
-    int a,min = 10,minI = 0,min2I = 10,min2 = -1,n;
-    cin>>n;
-    for (int i = 0; i < n; ++i)
-    {
-        cin>>a;
-        if (min>a)
-        {
-            min2I = minI;
-            minI = i;
-            min2 = min;
-            min = a;
+int main (){
+    for (int i = 0; i<999; i++) {
+        int x = i;
+        int a = 0, b = 1;
+        while (x > 0){
+            if (x % 3 > 0) a++;
+            if(x % 3 > 1) b++;
+            x /= 10;
+        }
+        if (a == 3 and b == 2) {
+            cout<<i <<"  ";
         }
     }
-    if(n>1)
-    {
-        cout<<minI + 1<<" "<<min2I + 1;
-    } else cout<<"Последовательность слишком короткая";
 }

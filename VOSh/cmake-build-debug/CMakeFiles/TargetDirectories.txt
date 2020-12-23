@@ -1,0 +1,3 @@
+C:/Users/pashe/Documents/GitHub/VMK-courses/VOSh/cmake-build-debug/CMakeFiles/VOSh.dir
+C:/Users/pashe/Documents/GitHub/VMK-courses/VOSh/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pashe/Documents/GitHub/VMK-courses/VOSh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
