@@ -25,9 +25,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/task 1.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/task 5.py" />
   </component>
-  <component name="RunManager" selected="Python.task 1">
+  <component name="RunManager" selected="Python.task 5">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="23.12.2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,9 +70,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task 2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="23.12.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pashe\anaconda3\envs\23.12.2020\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task 3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="23.12.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pashe\anaconda3\envs\23.12.2020\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task 4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="23.12.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pashe\anaconda3\envs\23.12.2020\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task 5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="23.12.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pashe\anaconda3\envs\23.12.2020\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.task 1" />
+      <item itemvalue="Python.task 2" />
+      <item itemvalue="Python.task 3" />
+      <item itemvalue="Python.task 4" />
+      <item itemvalue="Python.task 5" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,29 +175,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="828" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608742210528">
+    <state x="828" y="175" width="1092" height="810" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608744599716">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="828" y="175" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608742210528" />
-    <state x="1154" y="287" key="FileChooserDialogImpl" timestamp="1608742207472">
+    <state x="828" y="175" width="1092" height="810" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608744599716" />
+    <state x="1154" y="287" key="FileChooserDialogImpl" timestamp="1608744596264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1154" y="287" key="FileChooserDialogImpl/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608742207472" />
-    <state width="973" height="286" key="GridCell.Tab.0.bottom" timestamp="1608742500852">
+    <state x="1154" y="287" key="FileChooserDialogImpl/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608744596264" />
+    <state width="973" height="353" key="GridCell.Tab.0.bottom" timestamp="1608748335416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="973" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608742500852" />
-    <state width="973" height="286" key="GridCell.Tab.0.center" timestamp="1608742500851">
+    <state width="973" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608748335416" />
+    <state width="973" height="353" key="GridCell.Tab.0.center" timestamp="1608748335416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="973" height="286" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608742500851" />
-    <state width="973" height="286" key="GridCell.Tab.0.left" timestamp="1608742500851">
+    <state width="973" height="353" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608748335416" />
+    <state width="973" height="353" key="GridCell.Tab.0.left" timestamp="1608748335416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="973" height="286" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608742500851" />
-    <state width="973" height="286" key="GridCell.Tab.0.right" timestamp="1608742500851">
+    <state width="973" height="353" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608748335416" />
+    <state width="973" height="353" key="GridCell.Tab.0.right" timestamp="1608748335416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="973" height="286" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608742500851" />
+    <state width="973" height="353" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608748335416" />
+    <state width="973" height="353" key="GridCell.Tab.1.bottom" timestamp="1608748335416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="973" height="353" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608748335416" />
+    <state width="973" height="353" key="GridCell.Tab.1.center" timestamp="1608748335416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="973" height="353" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608748335416" />
+    <state width="973" height="353" key="GridCell.Tab.1.left" timestamp="1608748335416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="973" height="353" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608748335416" />
+    <state width="973" height="353" key="GridCell.Tab.1.right" timestamp="1608748335416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="973" height="353" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-154.900.1560@0.0.1920.1040" timestamp="1608748335416" />
   </component>
 </project>
